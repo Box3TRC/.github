@@ -1,6 +1,7 @@
 # 🔬 Box3TRC 「Technical Research Center」🔬
 
 欢迎来到岛研所！
+<https://trc.tobylai.fun/>
 
 ## 研究开发内容计划「🟢完成 🔵计划 🟡进行」
 - 🟡 1.mc转box3技术 （尹子@SMCYDS）
